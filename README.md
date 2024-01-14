@@ -244,4 +244,4 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 
 
-🎉Congratulations! You have implementated on-premises Active Directory and created users within an Azure virtual machine!🎉
+ Congratulations. You have implementated on-premises Active Directory and created users within an Azure virtual machine.
